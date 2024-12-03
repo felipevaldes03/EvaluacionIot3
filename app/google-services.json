@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579324108753",
+    "project_id": "aplicacionesiot-85eed",
+    "storage_bucket": "aplicacionesiot-85eed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579324108753:android:5b864b28b62c9fbf42caf0",
+        "android_client_info": {
+          "package_name": "com.example.evaluacion3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxwP5hO1yq10y4R_DGvLrWYjVUojWnsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

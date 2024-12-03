@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Evaluacion3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="agregar_datos">agregar datos</string>
+    <string name="calorias">calorias</string>
+    <string name="temperatura">temperatura</string>
+    <string name="tiempo">tiempo</string>
+    <string name="datos">datos</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
+    <string name="agregar_datos_">agregar datos</string>
+    <string name="tiempo_actual">tiempo actual</string>
+    <string name="calorias_actuales">calorias actuales</string>
+    <string name="temperatura_actual">temperatura actual</string>
+    <string name="ver_datos">ver datos</string>
+</resources>
